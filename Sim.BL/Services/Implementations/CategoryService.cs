@@ -32,24 +32,14 @@ namespace Sim.BL.Services.Implementations
 
         public async Task<ICollection<CategoryGetDTO>> GetAllCategoryAsync()
         {
-
             var categories = await _categoryRepository.GetAllAsync();
-
             return _mapper.Map<ICollection<CategoryGetDTO>>(categories);
         }
-
-    
 
         public async Task<CategoryGetDTO> GetCategoryByIdAsync(int Id)
         {
             var dto = await _categoryRepository.GetByIdAsync(Id);
             return _mapper.Map<CategoryGetDTO>(dto);
         }
-
-        public Task UpdateCategory(CategoryPutDTO dto)
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }

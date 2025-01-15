@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Sim.DAL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,5 +14,8 @@ namespace Sim.BL.DTOs.NewsDTOs
         public string Title { get; set; }
         public int CategoryId { get; set; }
         public string ImgPath { get; set; }
+
+        public Category? Category { get; set; }
+
     }
 }

@@ -13,7 +13,6 @@ namespace Sim.BL.Services.Abstractions
         Task<ICollection<CategoryGetDTO>> GetAllCategoryAsync();
         Task<CategoryGetDTO> GetCategoryByIdAsync(int Id);
         Task CreateCategoryAsync(CategoryPostDTO dto);
-        Task UpdateCategory(CategoryPutDTO dto);
         Task DeleteCategory(int id);
     }
 }

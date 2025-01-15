@@ -14,7 +14,6 @@ namespace Sim.BL.Profiles
         public CategoryProfile()
         {
             CreateMap<CategoryGetDTO,Category>().ReverseMap();
-            CreateMap<CategoryPutDTO,Category>().ReverseMap();
             CreateMap<CategoryPostDTO,Category>().ReverseMap();
         }
     }

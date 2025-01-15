@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Sim.BL.DTOs.NewsDTOs;
 using Sim.BL.Services.Abstractions;
-using Sim.DAL.Models;
 
 namespace Sim.PL.Areas.Admin.Controllers
 {
@@ -20,9 +18,10 @@ namespace Sim.PL.Areas.Admin.Controllers
             _categoryService = categoryService; 
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            ICollection<NewsGetDTO> news=await _newsService.GetAllNewsAsync();
+            return View(news);
         }
 
         public   IActionResult Create()
@@ -35,6 +34,12 @@ namespace Sim.PL.Areas.Admin.Controllers
         public async Task<IActionResult> Create(NewsPostDTO dto)
         {
             await _newsService.CreateNewsAsync(dto);
+            return RedirectToAction("Index");
+        }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _newsService.DeleteNews(id);
             return RedirectToAction("Index");
         }
     }
