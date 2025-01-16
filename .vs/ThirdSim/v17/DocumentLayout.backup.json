@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\contexts\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\contexts\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\contexts\\configuration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\contexts\\configuration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\contexts\\configuration\\newsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\contexts\\configuration\\newsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\news\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\newsdtos\\newsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\dtos\\newsdtos\\newsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\categorydtos\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,18 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\sim.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\sim.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115195328_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sim.DAL\\Migrations\\20250115195328_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\newsdtos\\newspostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,40 +99,12 @@
       "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\profiles\\newsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\newsdtos\\newsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\dtos\\newsdtos\\newsgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\newsdtos\\newsputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|solutionrelative:sim.bl\\dtos\\newsdtos\\newsputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{816A2116-A7A4-4530-97D2-1D19DA132C36}|Sim.PL\\Sim.PL.csproj|solutionrelative:sim.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBE79557-33B5-492F-9540-12F43BC4329D}|Sim.BL\\Sim.BL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.bl\\dtos\\categorydtos\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -205,16 +217,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\migrations\\20250115180718_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\migrations\\20250115180718_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|c:\\users\\lenovo\\source\\repos\\thirdsim\\sim.dal\\migrations\\20250115195328_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714A0D57-2246-4502-B041-D255C2833BBB}|Sim.DAL\\Sim.DAL.csproj|solutionrelative:sim.dal\\migrations\\20250115195328_changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 763,
-          "SelectedChildIndex": 6,
+          "DockedHeight": 1035,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,59 +246,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs*",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Contexts\\Configuration\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\UserConfig.cs",
+              "RelativeToolTip": "Sim.DAL\\Contexts\\Configuration\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:49:19.365Z",
+              "WhenOpened": "2025-01-15T23:27:58.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sim.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\ThirdSim\\Sim.BL\\Sim.BL.csproj",
-              "RelativeDocumentMoniker": "Sim.BL\\Sim.BL.csproj",
-              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\ThirdSim\\Sim.BL\\Sim.BL.csproj*",
-              "RelativeToolTip": "Sim.BL\\Sim.BL.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T11:38:35.088Z",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T20:41:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "Sim.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:50:00.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Sim.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Program.cs",
+              "RelativeToolTip": "Sim.PL\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:32:55.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:37:47.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CategoryGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeDocumentMoniker": "Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "RelativeToolTip": "Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Title": "NewsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\NewsConfig.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Contexts\\Configuration\\NewsConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\NewsConfig.cs",
+              "RelativeToolTip": "Sim.DAL\\Contexts\\Configuration\\NewsConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:11:27.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T23:28:10.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml*",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T11:49:48.711Z",
+              "WhenOpened": "2025-01-15T10:35:35.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\News.cs",
+              "RelativeToolTip": "Sim.DAL\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:49:51.833Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Contexts\\Configuration\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\Configuration\\CategoryConfig.cs",
+              "RelativeToolTip": "Sim.DAL\\Contexts\\Configuration\\CategoryConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:30:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Update.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\News\\Update.cshtml",
@@ -290,181 +366,95 @@
               "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\News\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T11:50:58.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T11:50:43.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Sim.PL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:30:22.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:49:31.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250115195328_changes.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115195328_changes.cs",
-              "RelativeDocumentMoniker": "Sim.DAL\\Migrations\\20250115195328_changes.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115195328_changes.cs",
-              "RelativeToolTip": "Sim.DAL\\Migrations\\20250115195328_changes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:53:28.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\News.cs",
-              "RelativeDocumentMoniker": "Sim.DAL\\Models\\News.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\News.cs",
-              "RelativeToolTip": "Sim.DAL\\Models\\News.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:49:51.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "NewsPostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
-              "RelativeDocumentMoniker": "Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
-              "RelativeToolTip": "Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:11:37.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:50:58.905Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "NewsProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\NewsProfile.cs",
-              "RelativeDocumentMoniker": "Sim.BL\\Profiles\\NewsProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\NewsProfile.cs",
-              "RelativeToolTip": "Sim.BL\\Profiles\\NewsProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:19:07.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T11:49:41.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:49:41.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:50:13.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:50:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:49:48.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAFQBAAAAAAAAAAAgwKUBAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:35:35.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Sim.BL\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "Sim.BL\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAJAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:24:58.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:49:31.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:37:47.385Z",
-              "EditorCaption": ""
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:35:26.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Sim.DAL\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Category.cs",
-              "RelativeToolTip": "Sim.DAL\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:50:00.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:49:19.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "Sim.BL\\Profiles\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeToolTip": "Sim.BL\\Profiles\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:19:23.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "NewsGetDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsGetDTO.cs",
               "RelativeDocumentMoniker": "Sim.BL\\DTOs\\NewsDTOs\\NewsGetDTO.cs",
@@ -472,25 +462,107 @@
               "RelativeToolTip": "Sim.BL\\DTOs\\NewsDTOs\\NewsGetDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:11:58.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:11:58.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sim.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sim.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T11:50:13.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:30:22.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "CategoryGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
+              "RelativeDocumentMoniker": "Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
+              "RelativeToolTip": "Sim.BL\\DTOs\\CategoryDTOs\\CategoryGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:11:27.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Sim.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\ThirdSim\\Sim.BL\\Sim.BL.csproj",
+              "RelativeDocumentMoniker": "Sim.BL\\Sim.BL.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Source\\Repos\\ThirdSim\\Sim.BL\\Sim.BL.csproj",
+              "RelativeToolTip": "Sim.BL\\Sim.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T11:38:35.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250115195328_changes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115195328_changes.cs",
+              "RelativeDocumentMoniker": "Sim.DAL\\Migrations\\20250115195328_changes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115195328_changes.cs",
+              "RelativeToolTip": "Sim.DAL\\Migrations\\20250115195328_changes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:53:28.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewsPostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
+              "RelativeDocumentMoniker": "Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
+              "RelativeToolTip": "Sim.BL\\DTOs\\NewsDTOs\\NewsPostDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:11:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NewsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\NewsProfile.cs",
+              "RelativeDocumentMoniker": "Sim.BL\\Profiles\\NewsProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\NewsProfile.cs",
+              "RelativeToolTip": "Sim.BL\\Profiles\\NewsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:19:07.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Sim.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Sim.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:24:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Sim.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Sim.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:19:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "NewsPutDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\NewsDTOs\\NewsPutDTO.cs",
               "RelativeDocumentMoniker": "Sim.BL\\DTOs\\NewsDTOs\\NewsPutDTO.cs",
@@ -498,25 +570,11 @@
               "RelativeToolTip": "Sim.BL\\DTOs\\NewsDTOs\\NewsPutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:11:49.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:11:49.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:35:26.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Services\\Abstractions\\ICategoryService.cs",
@@ -524,12 +582,11 @@
               "RelativeToolTip": "Sim.BL\\Services\\Abstractions\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:25:57.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:25:57.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
@@ -537,12 +594,11 @@
               "RelativeToolTip": "Sim.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:05:28.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:05:28.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -550,12 +606,11 @@
               "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:36:04.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:36:04.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -563,25 +618,11 @@
               "RelativeToolTip": "Sim.PL\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:35:44.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:35:44.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Program.cs",
-              "RelativeDocumentMoniker": "Sim.PL\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Program.cs",
-              "RelativeToolTip": "Sim.PL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:32:55.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "CategoryPostDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
               "RelativeDocumentMoniker": "Sim.BL\\DTOs\\CategoryDTOs\\CategoryPostDTO.cs",
@@ -593,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "NewsService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\NewsService.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Services\\Implementations\\NewsService.cs",
@@ -605,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "NewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Implementations\\NewsRepository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Implementations\\NewsRepository.cs",
@@ -617,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "20250115180718_Initials.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115180718_Initials.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Migrations\\20250115180718_Initials.cs",
@@ -629,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "INewsService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Abstractions\\INewsService.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Services\\Abstractions\\INewsService.cs",
@@ -641,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Implementations\\Repository.cs",
@@ -653,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\appsettings.json",
               "RelativeDocumentMoniker": "Sim.PL\\appsettings.json",
@@ -665,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
@@ -677,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "INewsRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Abstractions\\INewsRepository.cs",
@@ -689,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Views\\_ViewStart.cshtml",
@@ -701,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Repositories\\Abstractions\\IRepository.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Repositories\\Abstractions\\IRepository.cs",
@@ -713,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Contexts\\AppDbContext.cs",
@@ -725,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Implementations\\AccountService.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Services\\Implementations\\AccountService.cs",
@@ -737,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Services\\Abstractions\\IAccountService.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Services\\Abstractions\\IAccountService.cs",
@@ -749,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\Profiles\\UserProfile.cs",
               "RelativeDocumentMoniker": "Sim.BL\\Profiles\\UserProfile.cs",
@@ -761,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\UserDTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "Sim.BL\\DTOs\\UserDTOs\\LoginDTO.cs",
@@ -773,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Sim.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Source\\Repos\\ThirdSim\\Sim.DAL\\Sim.DAL.csproj",
               "RelativeDocumentMoniker": "Sim.DAL\\Sim.DAL.csproj",
@@ -781,12 +822,11 @@
               "RelativeToolTip": "Sim.DAL\\Sim.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T11:12:49.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:12:49.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "Sim.BL\\DTOs\\UserDTOs\\RegisterDTO.cs",
@@ -798,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "20250115110308_Initial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Migrations\\20250115110308_Initial.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Migrations\\20250115110308_Initial.cs",
@@ -810,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Base\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Models\\Base\\AuditableEntity.cs",
@@ -822,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.DAL\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Sim.DAL\\Models\\Base\\BaseEntity.cs",
@@ -834,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Views\\_ViewImports.cshtml",
@@ -846,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Sim.PL\\Views\\Shared\\_Layout.cshtml",
@@ -858,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\ThirdSim\\Sim.PL\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Sim.PL\\Controllers\\HomeController.cs",
@@ -871,7 +911,7 @@
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedHeight": 195,
           "SelectedChildIndex": -1,
           "Children": [
             {

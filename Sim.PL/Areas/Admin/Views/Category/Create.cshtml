@@ -1,24 +1,26 @@
 ﻿@model CategoryPostDTO
 
-<div class="main-panel">
-    <div class="content-wrapper">
-        <div class="row">
-            <div class="col-lg-6 offset-lg-3 grid-margin stretch-card">
-                <div class="card">
-                    <div class="card-body">
-                        <h4 class="card-title">Create Category</h4>
-                        <form asp-action="Create" asp-controller="Category" asp-area="Admin" method="post" enctype="multipart/form-data">
-                            <div class="form-group">
-                                <label asp-for="Name" class="form-label">Name</label>
-                                <input asp-for="Name" type="text" class="form-control" required />
-                                <span asp-validation-for="Name" class="text-danger"></span>
-                            </div>
-                            <button type="submit" class="btn btn-primary">Create</button>
-                            <a asp-action="Index" class="btn btn-secondary ml-2">Back</a>
-                        </form>
-                    </div>
+<div class="container-fluid">
+    <!-- Page Header -->
+    <h1 class="h3 mb-4 text-gray-800">Create Category</h1>
+
+    <!-- Form Card -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Category Details</h6>
+        </div>
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="Name" class="form-label">Name</label>
+                    <input asp-for="Name" type="text" class="form-control" >
+                    <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
-            </div>
+
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Create
+                </button>
+            </form>
         </div>
     </div>
 </div>

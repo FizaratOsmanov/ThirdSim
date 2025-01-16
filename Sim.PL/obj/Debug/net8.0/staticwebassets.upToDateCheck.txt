@@ -1958,3 +1958,4 @@ wwwroot\pages\index.html
 wwwroot\pages\style-demo.html
 wwwroot\UPLOAD\NEWs\Screenshot 2025-01-15 183356.png
 wwwroot\UPLOAD\NEWs\WIN_20241203_14_06_42_Pro.jpg
+wwwroot\UPLOAD\NEWs\WIN_20250107_10_52_38_Pro.jpg

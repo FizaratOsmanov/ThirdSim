@@ -37,5 +37,13 @@ namespace Sim.PL.Areas.Admin.Controllers
             await _categoryService.CreateCategoryAsync(dto);
             return RedirectToAction("Index");
         }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _categoryService.DeleteCategory(id);
+            return RedirectToAction("Index");
+        }
+
+
     }
 }
